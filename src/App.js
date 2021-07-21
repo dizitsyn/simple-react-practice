@@ -1,5 +1,6 @@
 import React from "react";
 import ColorPicker from "./components/ColorPicker/ColorPicker";
+import Counter from "./components/Counter/Counter";
 
 const colorPickerOptions = [
   { label: "red", color: "#F44336" },
@@ -11,7 +12,12 @@ const colorPickerOptions = [
 ];
 
 const App = () => {
-  return <ColorPicker colors={colorPickerOptions} />;
+  return (
+    <>
+      <ColorPicker colors={colorPickerOptions} />
+      <Counter initialValue={0} />
+    </>
+  );
 };
 
 export default App;

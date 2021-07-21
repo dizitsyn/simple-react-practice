@@ -3,6 +3,7 @@ list-style: none;
 max-width: 30%;
 display:flex;
 justify-content: space-around   ;
+padding-bottom: 30px;
 }
 
 .colorItem{

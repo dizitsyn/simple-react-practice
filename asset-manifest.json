@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/simple-react-practice/static/css/main.ebbe7f09.chunk.css",
-    "main.js": "/simple-react-practice/static/js/main.80354bf0.chunk.js",
-    "main.js.map": "/simple-react-practice/static/js/main.80354bf0.chunk.js.map",
+    "main.css": "/simple-react-practice/static/css/main.2a18174f.chunk.css",
+    "main.js": "/simple-react-practice/static/js/main.e4629f2e.chunk.js",
+    "main.js.map": "/simple-react-practice/static/js/main.e4629f2e.chunk.js.map",
     "runtime-main.js": "/simple-react-practice/static/js/runtime-main.d232530e.js",
     "runtime-main.js.map": "/simple-react-practice/static/js/runtime-main.d232530e.js.map",
-    "static/js/2.94f96cf9.chunk.js": "/simple-react-practice/static/js/2.94f96cf9.chunk.js",
-    "static/js/2.94f96cf9.chunk.js.map": "/simple-react-practice/static/js/2.94f96cf9.chunk.js.map",
+    "static/js/2.93a6e5b9.chunk.js": "/simple-react-practice/static/js/2.93a6e5b9.chunk.js",
+    "static/js/2.93a6e5b9.chunk.js.map": "/simple-react-practice/static/js/2.93a6e5b9.chunk.js.map",
     "index.html": "/simple-react-practice/index.html",
-    "static/css/main.ebbe7f09.chunk.css.map": "/simple-react-practice/static/css/main.ebbe7f09.chunk.css.map",
-    "static/js/2.94f96cf9.chunk.js.LICENSE.txt": "/simple-react-practice/static/js/2.94f96cf9.chunk.js.LICENSE.txt"
+    "static/css/main.2a18174f.chunk.css.map": "/simple-react-practice/static/css/main.2a18174f.chunk.css.map",
+    "static/js/2.93a6e5b9.chunk.js.LICENSE.txt": "/simple-react-practice/static/js/2.93a6e5b9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d232530e.js",
-    "static/js/2.94f96cf9.chunk.js",
-    "static/css/main.ebbe7f09.chunk.css",
-    "static/js/main.80354bf0.chunk.js"
+    "static/js/2.93a6e5b9.chunk.js",
+    "static/css/main.2a18174f.chunk.css",
+    "static/js/main.e4629f2e.chunk.js"
   ]
 }

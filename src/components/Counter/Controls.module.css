@@ -1,11 +1,11 @@
-
-
-.value{
-    font-size: 20px;
-    text-align: center;
-    
-    
+.counterButton{
+     
+    height: 30px;
+    width: 150px;
+    margin:0 auto;
 }
+
+
 
 .container{
     width: 30%;

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import styles from "./ColorPicker.module.css";
+import classNames from "classnames";
 
 class ColorPicker extends Component {
   state = {
@@ -7,11 +8,10 @@ class ColorPicker extends Component {
   };
 
   activeColorStyle = (index) => {
-    const defaultStyle = [styles.colorItem];
-    if (index === this.state.activeColorIndx) {
-      defaultStyle.push(styles.activeColor);
-    }
-    return defaultStyle.join(" ");
+    const { colorItem, activeColor } = styles;
+    return classNames(colorItem, {
+      [activeColor]: index === this.state.activeColorIndx,
+    });
   };
 
   setActiveColor = (index) => {
